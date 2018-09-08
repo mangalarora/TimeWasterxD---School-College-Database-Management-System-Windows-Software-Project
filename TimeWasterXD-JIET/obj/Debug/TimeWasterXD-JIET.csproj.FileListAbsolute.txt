@@ -1,0 +1,321 @@
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\TimeWasterXD-JIET.exe.config
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\TimeWasterXD-JIET.exe.manifest
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\TimeWasterXD-JIET.application
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\TimeWasterXD-JIET.exe
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\TimeWasterXD-JIET.pdb
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\TimeWasterXD-JIET.exe.CodeAnalysisLog.xml
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\TimeWasterXD-JIET.exe.lastcodeanalysissucceeded
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\obj\Debug\TimeWasterXD_JIET.Properties.Resources.resources
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\obj\Debug\TimeWasterXD-JIET.csproj.GenerateResource.Cache
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\obj\Debug\TimeWasterXD-JIET.TrustInfo.xml
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\obj\Debug\TimeWasterXD-JIET.exe.manifest
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\obj\Debug\TimeWasterXD-JIET.application
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\obj\Debug\TimeWasterXD-JIET.exe
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\obj\Debug\TimeWasterXD-JIET.pdb
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\MetroFramework.Design.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\MetroFramework.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\MetroFramework.Fonts.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\obj\Debug\TimeWasterXD_JIET.MainForm.resources
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.Data.v17.1.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.Utils.v17.1.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.XtraBars.v17.1.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.Office.v17.1.Core.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.Data.v17.1.xml
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.Utils.v17.1.xml
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.XtraBars.v17.1.xml
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.Office.v17.1.Core.xml
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\obj\Debug\TimeWasterXD-JIET.exe.licenses
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\obj\Debug\TimeWasterXD_JIET.StuReg.resources
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+c:\users\mangal arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\obj\Debug\TimeWasterXD_JIET.SelectUser.resources
+C:\Users\Mangal Arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Mangal Arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\Interop.AXVLC.dll
+C:\Users\Mangal Arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\Mangal Arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\obj\Debug\Interop.AXVLC.dll
+C:\Users\Mangal Arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\obj\Debug\AxInterop.AXVLC.dll
+C:\Users\Mangal Arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\obj\Debug\TimeWasterXD-JIET.csproj.ResolveComReference.cache
+C:\Users\Mangal Arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\obj\Debug\TimeWasterXD_JIET.video.resources
+C:\Users\Mangal Arora\Documents\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\obj\Debug\TimeWasterXD_JIET.Settings.resources
+C:\Users\Mangal Arora\Documents\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\obj\Debug\TimeWasterXD_JIET.Privacy.resources
+C:\Users\Mangal Arora\Documents\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\obj\Debug\TimeWasterXD_JIET.Find.resources
+C:\Users\Mangal Arora\Documents\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\obj\Debug\TimeWasterXD-JIET.csprojResolveAssemblyReference.cache
+C:\Users\Mangal Arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\Google.Protobuf.dll
+C:\Users\Mangal Arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Mangal Arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\MySql.Data.dll
+C:\Users\Mangal Arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\MySql.Web.dll
+C:\Users\Mangal Arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\System.Web.Helpers.dll
+C:\Users\Mangal Arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\System.Web.Razor.dll
+C:\Users\Mangal Arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Mangal Arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\System.Web.WebPages.dll
+C:\Users\Mangal Arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Mangal Arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\WebMatrix.Data.dll
+C:\Users\Mangal Arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\WebMatrix.WebData.dll
+C:\Users\Mangal Arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\Google.Protobuf.xml
+C:\Users\Mangal Arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\System.Web.Helpers.xml
+C:\Users\Mangal Arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\System.Web.Razor.xml
+C:\Users\Mangal Arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\System.Web.WebPages.xml
+C:\Users\Mangal Arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Mangal Arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Mangal Arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\WebMatrix.Data.xml
+C:\Users\Mangal Arora\documents\visual studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\WebMatrix.WebData.xml
+C:\Users\Mangal Arora\Documents\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\obj\Debug\TimeWasterXD-JIET.csproj.CoreCompileInputs.cache
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\TimeWasterXD-JIET.exe.config
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\TimeWasterXD-JIET.exe.manifest
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\TimeWasterXD-JIET.application
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\TimeWasterXD-JIET.exe
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\TimeWasterXD-JIET.pdb
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\TimeWasterXD-JIET.exe.CodeAnalysisLog.xml
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\TimeWasterXD-JIET.exe.lastcodeanalysissucceeded
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\Google.Protobuf.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\MetroFramework.Design.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\MetroFramework.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\MetroFramework.Fonts.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\MySql.Data.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\MySql.Web.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\System.Web.Helpers.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\System.Web.Razor.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\System.Web.WebPages.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\WebMatrix.Data.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\WebMatrix.WebData.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.Office.v17.1.Core.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.Data.v17.1.xml
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.Utils.v17.1.xml
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.XtraBars.v17.1.xml
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\Google.Protobuf.xml
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\System.Web.Helpers.xml
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\System.Web.Razor.xml
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\System.Web.WebPages.xml
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\WebMatrix.Data.xml
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\WebMatrix.WebData.xml
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\DevExpress.Office.v17.1.Core.xml
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\Interop.AXVLC.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\bin\Debug\AxInterop.AXVLC.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\obj\Debug\Interop.AXVLC.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\obj\Debug\AxInterop.AXVLC.dll
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\obj\Debug\TimeWasterXD-JIET.csproj.ResolveComReference.cache
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\obj\Debug\TimeWasterXD_JIET.Find.resources
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\obj\Debug\TimeWasterXD_JIET.Privacy.resources
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\obj\Debug\TimeWasterXD_JIET.SelectUser.resources
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\obj\Debug\TimeWasterXD_JIET.Settings.resources
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\obj\Debug\TimeWasterXD_JIET.MainForm.resources
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\obj\Debug\TimeWasterXD_JIET.Properties.Resources.resources
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\obj\Debug\TimeWasterXD_JIET.StuReg.resources
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\obj\Debug\TimeWasterXD_JIET.video.resources
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\obj\Debug\TimeWasterXD-JIET.csproj.GenerateResource.Cache
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\obj\Debug\TimeWasterXD-JIET.exe.licenses
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\obj\Debug\TimeWasterXD-JIET.csproj.CoreCompileInputs.cache
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\obj\Debug\TimeWasterXD-JIET.TrustInfo.xml
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\obj\Debug\TimeWasterXD-JIET.exe.manifest
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\obj\Debug\TimeWasterXD-JIET.application
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\obj\Debug\TimeWasterXD-JIET.exe
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\obj\Debug\TimeWasterXD-JIET.pdb
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\obj\Debug\TimeWasterXD-JIET.csprojAssemblyReference.cache
+D:\Mangals- Books ,Projects & documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET\obj\Debug\TimeWasterXD-JIET.csproj.CopyComplete

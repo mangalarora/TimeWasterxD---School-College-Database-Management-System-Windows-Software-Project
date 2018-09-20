@@ -10,49 +10,49 @@
        <Types>
         <Type Name="Find" Kind="Class" Accessibility="Public" ExternallyVisible="True">
          <Messages>
-          <Message TypeName="ComVisibleTypeBaseTypesShouldBeComVisible" Category="Microsoft.Interoperability" CheckId="CA1405" Status="Active" Created="2018-09-08 15:33:07Z" FixCategory="DependsOnFix">
+          <Message TypeName="ComVisibleTypeBaseTypesShouldBeComVisible" Category="Microsoft.Interoperability" CheckId="CA1405" Status="Active" Created="2018-09-15 03:33:54Z" FixCategory="DependsOnFix">
            <Issue Certainty="90" Level="Error">'Find' is marked ComVisible(true) but has the following ComVisible(false) types in its object hierarchy: 'MetroForm'</Issue>
           </Message>
          </Messages>
         </Type>
         <Type Name="MainForm" Kind="Class" Accessibility="Public" ExternallyVisible="True">
          <Messages>
-          <Message TypeName="ComVisibleTypeBaseTypesShouldBeComVisible" Category="Microsoft.Interoperability" CheckId="CA1405" Status="Active" Created="2018-09-08 15:33:07Z" FixCategory="DependsOnFix">
+          <Message TypeName="ComVisibleTypeBaseTypesShouldBeComVisible" Category="Microsoft.Interoperability" CheckId="CA1405" Status="Active" Created="2018-09-15 03:33:54Z" FixCategory="DependsOnFix">
            <Issue Certainty="90" Level="Error">'MainForm' is marked ComVisible(true) but has the following ComVisible(false) types in its object hierarchy: 'MetroForm'</Issue>
           </Message>
          </Messages>
         </Type>
         <Type Name="Privacy" Kind="Class" Accessibility="Public" ExternallyVisible="True">
          <Messages>
-          <Message TypeName="ComVisibleTypeBaseTypesShouldBeComVisible" Category="Microsoft.Interoperability" CheckId="CA1405" Status="Active" Created="2018-09-08 15:33:07Z" FixCategory="DependsOnFix">
+          <Message TypeName="ComVisibleTypeBaseTypesShouldBeComVisible" Category="Microsoft.Interoperability" CheckId="CA1405" Status="Active" Created="2018-09-15 03:33:54Z" FixCategory="DependsOnFix">
            <Issue Certainty="90" Level="Error">'Privacy' is marked ComVisible(true) but has the following ComVisible(false) types in its object hierarchy: 'MetroForm'</Issue>
           </Message>
          </Messages>
         </Type>
         <Type Name="SelectUser" Kind="Class" Accessibility="Public" ExternallyVisible="True">
          <Messages>
-          <Message TypeName="ComVisibleTypeBaseTypesShouldBeComVisible" Category="Microsoft.Interoperability" CheckId="CA1405" Status="Active" Created="2018-09-08 15:33:07Z" FixCategory="DependsOnFix">
+          <Message TypeName="ComVisibleTypeBaseTypesShouldBeComVisible" Category="Microsoft.Interoperability" CheckId="CA1405" Status="Active" Created="2018-09-15 03:33:54Z" FixCategory="DependsOnFix">
            <Issue Certainty="90" Level="Error">'SelectUser' is marked ComVisible(true) but has the following ComVisible(false) types in its object hierarchy: 'MetroForm'</Issue>
           </Message>
          </Messages>
         </Type>
         <Type Name="Settings" Kind="Class" Accessibility="Public" ExternallyVisible="True">
          <Messages>
-          <Message TypeName="ComVisibleTypeBaseTypesShouldBeComVisible" Category="Microsoft.Interoperability" CheckId="CA1405" Status="Active" Created="2018-09-08 15:33:07Z" FixCategory="DependsOnFix">
+          <Message TypeName="ComVisibleTypeBaseTypesShouldBeComVisible" Category="Microsoft.Interoperability" CheckId="CA1405" Status="Active" Created="2018-09-15 03:33:54Z" FixCategory="DependsOnFix">
            <Issue Certainty="90" Level="Error">'Settings' is marked ComVisible(true) but has the following ComVisible(false) types in its object hierarchy: 'MetroForm'</Issue>
           </Message>
          </Messages>
         </Type>
         <Type Name="StuReg" Kind="Class" Accessibility="Public" ExternallyVisible="True">
          <Messages>
-          <Message TypeName="ComVisibleTypeBaseTypesShouldBeComVisible" Category="Microsoft.Interoperability" CheckId="CA1405" Status="Active" Created="2018-09-08 15:33:07Z" FixCategory="DependsOnFix">
+          <Message TypeName="ComVisibleTypeBaseTypesShouldBeComVisible" Category="Microsoft.Interoperability" CheckId="CA1405" Status="Active" Created="2018-09-15 03:33:54Z" FixCategory="DependsOnFix">
            <Issue Certainty="90" Level="Error">'StuReg' is marked ComVisible(true) but has the following ComVisible(false) types in its object hierarchy: 'MetroForm'</Issue>
           </Message>
          </Messages>
          <Members>
           <Member Name="#button1_Click(System.Object,System.EventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
            <Messages>
-            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-09-08 15:33:07Z" FixCategory="DependsOnFix">
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-09-15 03:33:54Z" FixCategory="DependsOnFix">
              <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\Mangals- Books ,Projects &amp; documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET" File="StuReg.cs" Line="314">The query string passed to 'MySqlCommand.MySqlCommand(string, MySqlConnection)' in 'StuReg.button1_Click(object, EventArgs)' could contain the following variables 'this.regDate.Text', 'this.fname.Text', 'this.mname.Text', 'this.lname.Text', 'this.gender.Text', 'this.dob.Text', 'this.category.Text', 'this.religion.Text', 'this.unrollno.Text'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
              <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\Mangals- Books ,Projects &amp; documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET" File="StuReg.cs" Line="327">The query string passed to 'MySqlCommand.MySqlCommand(string, MySqlConnection)' in 'StuReg.button1_Click(object, EventArgs)' could contain the following variables 'this.unrollno.Text'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
             </Message>
@@ -60,14 +60,14 @@
           </Member>
           <Member Name="#button3_Click(System.Object,System.EventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
            <Messages>
-            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-09-08 15:33:07Z" FixCategory="DependsOnFix">
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-09-15 03:33:54Z" FixCategory="DependsOnFix">
              <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\Mangals- Books ,Projects &amp; documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET" File="StuReg.cs" Line="474">The query string passed to 'MySqlCommand.MySqlCommand(string, MySqlConnection)' in 'StuReg.button3_Click(object, EventArgs)' could contain the following variables 'this.unrollno.Text'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
             </Message>
            </Messages>
           </Member>
           <Member Name="#button4_Click(System.Object,System.EventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
            <Messages>
-            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-09-08 15:33:07Z" FixCategory="DependsOnFix">
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-09-15 03:33:54Z" FixCategory="DependsOnFix">
              <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\Mangals- Books ,Projects &amp; documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET" File="StuReg.cs" Line="513">The query string passed to 'MySqlCommand.MySqlCommand(string, MySqlConnection)' in 'StuReg.button4_Click(object, EventArgs)' could contain the following variables 'this.regDate.Text', 'this.fname.Text', 'this.mname.Text', 'this.lname.Text', 'this.gender.Text', 'this.dob.Text', 'this.category.Text', 'this.religion.Text', 'this.unrollno.Text'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
              <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\Mangals- Books ,Projects &amp; documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET" File="StuReg.cs" Line="524">The query string passed to 'MySqlCommand.MySqlCommand(string, MySqlConnection)' in 'StuReg.button4_Click(object, EventArgs)' could contain the following variables 'this.unrollno.Text'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
             </Message>
@@ -75,7 +75,7 @@
           </Member>
           <Member Name="#button6_Click(System.Object,System.EventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
            <Messages>
-            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-09-08 15:33:07Z" FixCategory="DependsOnFix">
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-09-15 03:33:54Z" FixCategory="DependsOnFix">
              <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\Mangals- Books ,Projects &amp; documents\Projects\Visual Studio 2017\Projects\TimeWasterXD-JIET\TimeWasterXD-JIET" File="StuReg.cs" Line="366">The query string passed to 'MySqlCommand.MySqlCommand(string, MySqlConnection)' in 'StuReg.button6_Click(object, EventArgs)' could contain the following variables 'this.unrollno.Text'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
             </Message>
            </Messages>
@@ -84,7 +84,7 @@
         </Type>
         <Type Name="video" Kind="Class" Accessibility="Public" ExternallyVisible="True">
          <Messages>
-          <Message TypeName="ComVisibleTypeBaseTypesShouldBeComVisible" Category="Microsoft.Interoperability" CheckId="CA1405" Status="Active" Created="2018-09-08 15:33:07Z" FixCategory="DependsOnFix">
+          <Message TypeName="ComVisibleTypeBaseTypesShouldBeComVisible" Category="Microsoft.Interoperability" CheckId="CA1405" Status="Active" Created="2018-09-15 03:33:54Z" FixCategory="DependsOnFix">
            <Issue Certainty="90" Level="Error">'video' is marked ComVisible(true) but has the following ComVisible(false) types in its object hierarchy: 'MetroForm'</Issue>
           </Message>
          </Messages>

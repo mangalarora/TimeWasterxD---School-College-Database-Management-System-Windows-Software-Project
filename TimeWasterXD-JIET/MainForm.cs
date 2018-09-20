@@ -152,7 +152,6 @@ namespace TimeWasterXD_JIET
             this.checkBox1 = new System.Windows.Forms.CheckBox();
             this.pictureBox5 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.panelControl1)).BeginInit();
-            this.panelControl1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.timer1)).BeginInit();
             this.sidePanel.SuspendLayout();
@@ -805,6 +804,7 @@ namespace TimeWasterXD_JIET
             this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox4.TabIndex = 0;
             this.pictureBox4.TabStop = false;
+            this.pictureBox4.Click += new System.EventHandler(this.pictureBox4_Click);
             // 
             // panel2
             // 
@@ -947,7 +947,6 @@ namespace TimeWasterXD_JIET
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.MainForm_FormClosing);
             ((System.ComponentModel.ISupportInitialize)(this.panelControl1)).EndInit();
-            this.panelControl1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.timer1)).EndInit();
             this.sidePanel.ResumeLayout(false);
@@ -1132,6 +1131,11 @@ namespace TimeWasterXD_JIET
             sn.Play();
             Find fd = new Find();
             fd.Show();
+        }
+
+        private void pictureBox4_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
